@@ -48,6 +48,14 @@ li a:hover {
     text-align: center;
     color: aliceblue;
 }
+.container img{
+    height: 220px;
+    width: 100%;
+}
+.navigation ul{
+    list-style-type: none;margin: 0px;padding: 10px;overflow: hidden;background-color: teal;
+
+}
 
 .main_heading{
     position: absolute;
